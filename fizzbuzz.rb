@@ -9,5 +9,3 @@ def fizzbuzz(fizz_5)
     "Buzz"
   end
 end
-
-    
